@@ -1,0 +1,2 @@
+semaphore max_capacity = 10;
+
